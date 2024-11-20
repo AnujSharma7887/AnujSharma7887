@@ -1,4 +1,4 @@
-<h2 align="left">Hi beautiful people..👋! My name is Anuj Sharma 👾... and I'm a Computer Engineering student 🏫🎓..., from Earth 🌏....<br>Fun fact❗.. I'm a human.👽</h2>
+<h4 align="left">Hi beautiful people..👋! My name is Anuj Sharma 👾... and I'm a Computer Engineering student 🏫🎓..., from Earth 🌏....<br>Fun fact❗.. I'm a human.👽</h4>
 
 ###
 
